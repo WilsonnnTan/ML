@@ -1,0 +1,14 @@
+{
+  "EMOTION_LABELS": [
+    "anger",
+    "fear",
+    "none",
+    "sadness",
+    "unclear"
+  ],
+  "N_FOLDS": 5,
+  "SEED": 42,
+  "K": 5,
+  "MODELS_DIR": "models",
+  "PROCESSED_DIR": "../datasets/processed"
+}
